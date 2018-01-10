@@ -1,0 +1,8 @@
+com\yash\rrf\dao\AddResourceDao.class
+com\yash\rrf\service\AddResourceServiceImpl.class
+com\yash\rrf\dao\AddResourceDaoImpl.class
+com\yash\rrf\model\InterviewDetails.class
+com\yash\rrf\model\ResourceDetails.class
+com\yash\rrf\service\AddResourceService.class
+com\yash\rrf\controller\AddResourceController.class
+com\yash\rrf\model\SkillSet.class
